@@ -16,7 +16,7 @@ export default function Home() {
             nome="Andrew Silva" 
             idade="22" 
             cidade="São Paulo-SP" 
-            funcao="Dev Backend Jr"/>
+            funcao="Dev Backend"/>
           <Typewriter />
           <About />
         </main>
