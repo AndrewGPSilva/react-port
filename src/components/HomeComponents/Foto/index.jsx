@@ -1,4 +1,4 @@
-import perfil from "../../../assets/perfil.webp";
+import perfil from "../../../assets/perfil.jpg";
 import style from "./Foto.module.css";
 
 export default function Foto() {
