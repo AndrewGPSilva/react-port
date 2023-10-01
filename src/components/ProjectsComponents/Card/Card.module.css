@@ -42,10 +42,12 @@
 .tituloCard {
   display: flex;
   justify-content: center;
+  text-align: center;
   padding: 2px;
 }
 
 .tituloCard h1 {
+  text-align: center;
   font-weight: bold;
   color: orange;
   font-size: 30px;
