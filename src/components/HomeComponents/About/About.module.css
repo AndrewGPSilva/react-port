@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+    background-color: #0f0f0f;
+    color: white;
+    margin-bottom: 80px;
+}
+
+.container h1 {
+    color: aqua;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+.container p {
+    color: gray;
+    padding: 10px;
+}
