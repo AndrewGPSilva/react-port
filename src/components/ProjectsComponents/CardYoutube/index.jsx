@@ -7,7 +7,7 @@ export default function Cardyt() {
       {dados.map((dado) => (
         <div className={style.card} key={dado.id}>
           <div>
-            <iframe width="319px" height="200" src={dado.link}
+            <iframe width="320px" height="200" src={dado.link}
               title="YouTube video player" frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowfullscreen></iframe>

@@ -66,16 +66,6 @@
     border-bottom: 5px solid aqua;
   }
   
-  .angular {
-    color: #cd1029;
-    border-bottom: 5px solid yellow;
-  }
-  
-  .vue {
-    color: #3ca67c;
-    border-bottom: 5px solid cyan;
-  }
-  
   .java {
     color: #54849c;
     border-bottom: 5px solid aqua;
@@ -99,16 +89,6 @@
   .bootstrap {
     color: #7d0bf7;
     border-bottom: 5px solid green;
-  }
-  
-  .python {
-    color: #ffff00;
-    border-bottom: 5px solid aqua;
-  }
-  
-  .django {
-    color: #227d63;
-    border-bottom: 5px solid yellow;
   }
   
   .node {

@@ -1,9 +1,8 @@
 import style from './Icons.module.css';
 import Descricao from '../Descricao/index.jsx'
-import { FaHtml5, FaCss3Alt, FaReact, FaBootstrap, FaPhp, FaLaravel, FaJava, FaPython, FaNodeJs, FaGitAlt, FaDocker } from 'react-icons/fa'
+import { FaHtml5, FaCss3Alt, FaReact, FaBootstrap, FaPhp, FaLaravel, FaJava, FaNodeJs, FaGitAlt, FaDocker, FaRust } from 'react-icons/fa'
 import { BiLogoJavascript, BiLogoTailwindCss, BiLogoGithub } from 'react-icons/bi'
 import { SiSpringboot, SiPostman } from 'react-icons/si'
-import { DiDjango } from 'react-icons/di'
 import { GiSkills } from 'react-icons/gi'
 
 export default function Icons() {
@@ -38,13 +37,12 @@ export default function Icons() {
           <div className={style.iconsbe}>
             <p className={style.php}><FaPhp /></p>
             <p className={style.java}><FaJava /></p>
-            <p className={style.python}><FaPython /></p>
             <p className={style.node}><FaNodeJs /></p>
           </div>
           <div className={style.iconsbe}>
             <p className={style.laravel}><FaLaravel /></p>
             <p className={style.spring}><SiSpringboot /></p>
-            <p className={style.django}><DiDjango /></p>
+            <p className={style.rust}><FaRust /></p>
           </div>
         </div>
       </div>
