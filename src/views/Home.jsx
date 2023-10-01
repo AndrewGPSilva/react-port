@@ -7,12 +7,20 @@ export default function Home() {
   return (
     <>
       <div>
-        <Navbar />
+        <header>
+          <Navbar />
+        </header>
         <main>
-          <Ficha nome="Andrew Silva" idade="22" cidade="São Paulo-SP" funcao="Dev Backend Jr"/>
+          <Ficha 
+            nome="Andrew Silva" 
+            idade="22" 
+            cidade="São Paulo-SP" 
+            funcao="Dev Backend Jr"/>
           <Typewriter />
         </main>
-        <Footer />
+        <footer>
+          <Footer />
+        </footer>
       </div>
     </>
   )
