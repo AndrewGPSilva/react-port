@@ -16,11 +16,17 @@ export default function Card() {
               <img src={dado.imagem} alt="Imagem" />
             </div>
             <div className={style.informacoes}>
-              <h1>{dado.titulo}</h1>
-              <p>{dado.descricao}</p>
-              <a href={dado.link} target="_blank" rel="noopener noreferrer">
-                ACESSAR SITE
-              </a>
+              <div className={style.tituloCard}>
+                <h1>{dado.titulo}</h1>
+              </div>
+              <div className={style.descricaoCard}>
+                <p>{dado.descricao}</p>
+              </div>
+              <div className={style.linkCard}>
+                <a href={dado.link} target="_blank" rel="noopener noreferrer">
+                  ACESSAR SITE
+                </a>
+              </div>
             </div>
           </div>
         ))}

@@ -1,122 +1,122 @@
 .container p {
-    font-size: 60px;
-    background-color: transparent;
-    border-radius: 15px;
-    padding: 10px;
-  }
-  
-  .container {
-    margin-bottom: 65px;
-    background-color: #0f0f0f;
-    color: white;
-    padding: 10px;
-  }
-  
-  .iconsfrontend {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .iconsfe, 
-  .iconsbe,
-  .iconsfr {
-    display: flex;
-    justify-content: space-around;
-    padding: 15px;
-  }
-  
-  .titulo {
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    font-size: 40px;
-    color: yellow;
-    opacity: 0.5;
-  }
-  
-  .tituloStack {
-    text-align: end;
-    font-weight: bold;
-    color: #ffff7a;
-    font-size: 20px;
-  }
-  
-  .html {
-    color: #FFA500;
-    border-bottom: 5px solid green;
-  }
-  
-  .css {
-    color: #2452e8;
-    border-bottom: 5px solid green;
-  }
-  
-  .js {
-    color: #ffff00;
-    border-bottom: 5px solid green;
-  }
-  
-  .php {
-    color: #747bb2;
-    border-bottom: 5px solid green;
-  }
-  
-  .react {
-    color: #64dcfc;
-    border-bottom: 5px solid aqua;
-  }
-  
-  .java {
-    color: #54849c;
-    border-bottom: 5px solid aqua;
-  }
-  
-  .laravel {
-    color: #fc2c1c;
-    border-bottom: 5px solid green;
-  }
-  
-  .spring {
-    color: #6cb444;
-    border-bottom: 5px solid aqua;
-  }
-  
-  .tailwind {
-    color: #04b4d4;
-    border-bottom: 5px solid green;
-  }
-  
-  .bootstrap {
-    color: #7d0bf7;
-    border-bottom: 5px solid green;
-  }
-  
-  .node {
-    color: #84c01c;
-    border-bottom: 5px solid aqua;
-  }
-  
-  .rust {
-    color: white;
-    border-bottom: 5px solid yellow;
-  }
-  
-  .git {
-    color: #f44c2e;
-    border-bottom: 5px solid green;
-  }
-  
-  .github {
-    color: #ffffff;
-    border-bottom: 5px solid green;
-  }
-  
-  .docker {
-    color: #0783c7;
-    border-bottom: 5px solid aqua;
-  }
-  
-  .postman {
-    color: #fb6c3b;
-    border-bottom: 5px solid green;
-  }
+  font-size: 60px;
+  background-color: transparent;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.container {
+  margin-bottom: 65px;
+  background-color: #0f0f0f;
+  color: white;
+  padding: 10px;
+}
+
+.iconsfrontend {
+  display: flex;
+  flex-direction: column;
+}
+
+.iconsfe,
+.iconsbe,
+.iconsfr {
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+
+.titulo {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  font-size: 36px;
+  color: yellow;
+  opacity: 0.5;
+}
+
+.tituloStack {
+  text-align: end;
+  font-weight: bold;
+  color: #ffff7a;
+  font-size: 20px;
+}
+
+.html {
+  color: #ffa500;
+  border-bottom: 5px solid green;
+}
+
+.css {
+  color: #2452e8;
+  border-bottom: 5px solid green;
+}
+
+.js {
+  color: #ffff00;
+  border-bottom: 5px solid green;
+}
+
+.php {
+  color: #747bb2;
+  border-bottom: 5px solid green;
+}
+
+.react {
+  color: #64dcfc;
+  border-bottom: 5px solid aqua;
+}
+
+.java {
+  color: #54849c;
+  border-bottom: 5px solid aqua;
+}
+
+.laravel {
+  color: #fc2c1c;
+  border-bottom: 5px solid green;
+}
+
+.spring {
+  color: #6cb444;
+  border-bottom: 5px solid aqua;
+}
+
+.tailwind {
+  color: #04b4d4;
+  border-bottom: 5px solid green;
+}
+
+.bootstrap {
+  color: #7d0bf7;
+  border-bottom: 5px solid green;
+}
+
+.node {
+  color: #84c01c;
+  border-bottom: 5px solid aqua;
+}
+
+.rust {
+  color: white;
+  border-bottom: 5px solid yellow;
+}
+
+.git {
+  color: #f44c2e;
+  border-bottom: 5px solid green;
+}
+
+.github {
+  color: #ffffff;
+  border-bottom: 5px solid green;
+}
+
+.docker {
+  color: #0783c7;
+  border-bottom: 5px solid aqua;
+}
+
+.postman {
+  color: #fb6c3b;
+  border-bottom: 5px solid green;
+}
