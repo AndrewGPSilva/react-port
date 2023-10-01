@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "titulo": "Me conheça mais",
+      "descricao": "Projeto usando React.js - Onde é possível conhecer um pouco mais detalhada a minha trajetória!",
+      "link": "https://me-conheca.vercel.app/",
+      "imagem": "https://i.ibb.co/Fx0WB5y/meconheca.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Place TV",
+      "descricao": "Projeto pessoal em andamento - Onde irei falar sobre o Anime e trazer atualizações diariamente!",
+      "link": "https://placetv.vercel.app/",
+      "imagem": "https://i.ibb.co/3B7mqzV/Captura-de-Tela-17.png"
+    },
+    {
+      "id": 3,
+      "titulo": "Gpsflix",
+      "descricao": "Projeto utilizando React Js, Tailwind CSS no Front-End e uma API minha com Node Js no Back-End.",
+      "link": "https://tailwind-node-react.vercel.app/",
+      "imagem": "https://i.ibb.co/vZ6bBPT/1695377218898.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Space Animes",
+      "descricao": "Projeto utilizando React.js - Onde mostro alguns dos meus animes preferidos!",
+      "link": "https://space-animes-bt6b9x6uz-andrewgpsilva.vercel.app/",
+      "imagem": "https://i.ibb.co/jgRgZkp/space-animes.png"
+    },
+    {
+      "id": 5,
+      "titulo": "Monte sua Tripulação",
+      "descricao": "Projeto usando React.js - Onde é possível montar sua própria tripulação!",
+      "link": "https://tripula-one-piece.vercel.app/",
+      "imagem": "https://i.ibb.co/YpmS5v2/organo.png"
+    },
+    {
+      "id": 6,
+      "titulo": "Veja Cotações",
+      "descricao": "Projeto usando API com JS - Onde é possível visualizar em tempo real a cotação do Dólar e de Ienes!",
+      "link": "https://banco-conversoes.vercel.app/",
+      "imagem": "https://i.ibb.co/D77kppM/apibank.png"
+    }
+  ]
+  

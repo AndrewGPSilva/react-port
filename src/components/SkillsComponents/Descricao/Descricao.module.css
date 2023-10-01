@@ -1,0 +1,37 @@
+.estudando {
+    color: yellow;
+    display: flex;
+    align-items: center;
+  }
+  
+  .intermediario {
+    color: cyan;
+    display: flex;
+    align-items: center;
+  }
+  
+  .dominio {
+    color: green;
+    display: flex;
+    align-items: center;
+  }
+  
+  .estudandoTitulo {
+    color: white;
+    background-color: transparent;
+    font-size: 20px;
+  }
+  
+  .container {
+    padding: 10px;
+  }
+  
+  .container h3 {
+    font-weight: bold;
+    text-align: end;
+    font-size: 20px;
+  }
+  
+  .container h5 {
+    margin-left: 10px;
+  }

@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Cárdapio Digital",
+        "descricao": "Projeto utilizando PHP como back-end, realizando todos os 4 conceitos do CRUD.",
+        "id": "1",
+        "link": "https://www.youtube.com/embed/lDSNpT-zP7g"
+    },
+    {
+        "titulo": "Projeto Place TV",
+        "descricao": "Projeto utilizando laravel, uma nova versão do place tv mas com muito mais coisas, login, crud, validações...",
+        "id": "2",
+        "link": "https://www.youtube.com/embed/uGSDovBg1p4?si=7qOWLZjR1WmLogFT"
+    },
+    {
+        "titulo": "Portfólio com VUE 3",
+        "descricao": "Projeto para replicar esse portfólio só que dessa vez usando o framework Vue",
+        "id": "3",
+        "link": "https://www.youtube.com/embed/r6V_st9eKco?si=Ordv3-7EsqQQ7dnm"
+    }
+]

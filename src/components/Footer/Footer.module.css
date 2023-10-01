@@ -1,0 +1,51 @@
+.icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.icons p {
+  font-size: 20px;
+  padding: 5px;
+}
+
+.containerFooter {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-color: #0f0f0f;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  width: 100vw;
+  bottom: 0;
+}
+
+.facebook {
+  color: #3333ff;
+}
+
+.twitter {
+  color: #3333ff;
+}
+
+.tiktok {
+  color: #ffffff;
+}
+
+.linkedin {
+  color: #3333ff;
+}
+
+.github {
+  color: #ffffff;
+}
+
+.instagram {
+  color: #ff3636;
+}
+
+.fraseFooter h1 {
+  font-size: 20px;
+}
